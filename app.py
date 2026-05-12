@@ -49,6 +49,7 @@ with st.sidebar:
     - Aman Kumar
     - Harsh Kumar
     - Puja Kumari
+    - Sawan Kumar
     - Shivam Kumar Singh
 
     **Section:** 23412G2 | **Sem:** 6th
