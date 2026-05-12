@@ -126,8 +126,8 @@ with tab1:
                             border-left:5px solid {border};
                             padding:16px; border-radius:8px;
                             margin-bottom:10px;'>
-                    <h3 style='margin:0;'>{label}</h3>
-                    <p style='margin:4px 0;'>
+                    <h3 style='margin:0; color:black;'>{label}</h3>
+                    <p style='margin:4px 0; color:black;'>
                         <b>Confidence:</b> {conf:.2f}%
                     </p>
                     <p style='margin:4px 0; color:{risk_color};'>
